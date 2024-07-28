@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/tu-usuario/webserver-helm-chart.git
+    repoURL: git@github.com:YkzaGrg/Desafio15.git
     targetRevision: HEAD
     path: .
     helm:
